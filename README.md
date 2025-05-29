@@ -2,6 +2,11 @@
 
 Este projeto simula um **robô virtual** que se movimenta dentro de um labirinto utilizando **Python** e **Pygame**, controlado por comandos recebidos de um servidor **Node-RED**.
 
+## Membros do Grupo
+- **Guilherme Firpo**
+- **Arthur willyams**
+- **Juliano**
+
 ---
 
 ## 🛠 Tecnologias Utilizadas
